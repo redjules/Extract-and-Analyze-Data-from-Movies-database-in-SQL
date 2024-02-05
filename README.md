@@ -1,10 +1,8 @@
 # Extract and Analyze Data from Movies database in SQL
 
-<img width="532" alt="Screenshot 2024-02-05 at 11 32 05" src="https://github.com/redjules/Extract-and-Analyze-Data-from-Movies-database-in-SQL/assets/106017493/23a3e801-04b3-4174-a2b6-d6fe7a4a87c6">
+Situation: You and your businees partner were recently approached by another business owner who is interested in buying Maven Movies. He owns retsaurants and bars so he has lots of questions about your business. 
 
-<img width="543" alt="Screenshot 2024-02-05 at 11 32 15" src="https://github.com/redjules/Extract-and-Analyze-Data-from-Movies-database-in-SQL/assets/106017493/8986b4e3-6a31-4618-92af-e4fb15e7d631">
-
-In this project we will answer the following 8 questions in SQL:
+In this project we will answer the following 8 questions from the potential buyer in SQL:
 
 
 1. My partner and I want to come by each of the stores in person and meet the managers. 
