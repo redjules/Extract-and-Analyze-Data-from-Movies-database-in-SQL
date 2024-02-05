@@ -2,7 +2,10 @@
 
 Situation: You and your businees partner were recently approached by another business owner who is interested in buying Maven Movies. He owns retsaurants and bars so he has lots of questions about your business. 
 
+
 In this project we will answer the following 8 questions from the potential buyer in SQL:
+
+
 
 
 1. My partner and I want to come by each of the stores in person and meet the managers. 
