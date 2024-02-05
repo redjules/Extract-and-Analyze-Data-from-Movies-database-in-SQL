@@ -1,1 +1,2 @@
-# Extract-and-Analyze-Data-from-Movies-database-in-SQL
+# Extract and Analyze Data from Movies database in SQL
+
